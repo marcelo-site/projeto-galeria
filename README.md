@@ -1,2 +1,2 @@
 # projeto-galeria
- Projeto galeria - Cod3r cursos
+ Exercicio - Cod3r cursos
