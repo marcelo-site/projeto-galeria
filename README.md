@@ -1,2 +1,2 @@
-# projeto-galeria
- Exercicio - Cod3r cursos
+# Projeto Galeria
+ ##Exercicio com Bootstrap - Cod3r cursos
